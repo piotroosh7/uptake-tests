@@ -3,13 +3,13 @@ Simple Java selenium tests for uptake.com
 
 This project was developed on a mac and, for simplicity, uses only the chromedriver for mac to run. Downloaded from https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-Open in an IDE and run the UptakeMain class to run the tests.<br<br>
+Open in an IDE and run the UptakeMain class to run the tests.<br><br>
 
 Test classes are in directory: uptake-tests/uptake/src/test/java/com/uptake/tests<br>
 Page object classes: uptake-tests/uptake/src/test/java/com/uptake/pages<br>
 main class: uptake-tests/uptake/src/test/java/com/uptake<br>
 
-Tested on IntelliJ, the output should look like:<br>
+Tested on IntelliJ, the output should look like:<br><br>
 Starting ChromeDriver 2.28.455517 (2c6d2707d8ea850c862f04ac066724273981e88f) on port 17248<br>
 Only local connections are allowed.<br>
 Oct 27, 2017 1:29:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession<br>
